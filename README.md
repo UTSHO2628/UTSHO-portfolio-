@@ -1,3 +1,7 @@
+   Portfolio_Website1.0v2
+
+This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, certifications, and professional journey in Artificial Intelligence, Automation, Software Development, and Robotics.
+
 The portfolio reflects my philosophy of building intelligent systems from code to circuits, combining software engineering with real-world hardware applications.
 
 🔥 Live Overview
@@ -16,7 +20,8 @@ Easy contact and professional links
 
 🧠 About Me
 
-I am a Computer Science & Engineering (CSE) student, Python trainer, and AI automation enthusiast. My work spans across:
+I am a Computer Science & Engineering (CSE) student, Python trainer, and AI automation enthusiast.
+My work spans across:
 
 AI & Machine Learning fundamentals
 
@@ -28,13 +33,15 @@ Robotics and embedded systems
 
 I enjoy teaching, building systems that optimize processes, and experimenting at the intersection of software intelligence and physical hardware.
 
-🛠️ Tech Stack Frontend
+🛠️ Tech Stack
+Frontend
 
 HTML5
 
 CSS3
 
 Vanilla JavaScript
+
 
 Animations & UI
 
@@ -58,6 +65,7 @@ PHP
 
 JavaScript
 
+
 Web Development
 
 HTML & CSS
@@ -69,6 +77,7 @@ Django
 Flask
 
 FastAPI
+
 
 AI & Automation
 
@@ -82,6 +91,7 @@ n8n Workflows
 
 Python scheduling & automation tools
 
+
 Hardware & Robotics
 
 Raspberry Pi
@@ -93,6 +103,7 @@ RC systems
 Custom sensors
 
 Circuit design
+
 
 Tools & Platforms
 
@@ -128,7 +139,15 @@ Hackathon winner & project showcasing recognitions
 
 Python Programming Trainer (100+ students trained)
 
-📂 Project Structure 📦 portfolio ┣ 📜 index.html ┣ 📜 style.css ┣ 📜 script.js ┣ 📁 assets ┃ ┣ 🖼️ images ┃ ┗ 🎨 icons ┗ 📜 README.md
+📂 Project Structure
+📦 portfolio
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 script.js
+ ┣ 📁 assets
+ ┃ ┣ 🖼️ images
+ ┃ ┗ 🎨 icons
+ ┗ 📜 README.md
 
 📬 Contact & Profiles
 
@@ -152,4 +171,18 @@ Serve as a continuously evolving personal brand
 
 ⭐ Feedback & Contributions
 
-Suggestions and feedback are always welcome. If you find this portfolio inspiring, feel free to ⭐ the repository.
+Suggestions and feedback are always welcome.
+If you find this portfolio inspiring, feel free to ⭐ the repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
