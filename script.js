@@ -15,11 +15,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Typing Animation ---
     const roles = [
+        "CSE Student",
         "Python Programming Trainer",
+        "Developer",
         "AI & Automation",
-        "Web Developer",
-        "Robotics & Hardware project Builder",
-        "CSE Student"
+        "Robotics & Hardware Project Builder"
     ];
     let roleIndex = 0;
     let charIndex = 0;
